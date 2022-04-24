@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "controle-animais-ms"
+		},
+		{
+			"path": "controle-pessoas-ms"
+		},
+		{
+			"path": "zuul-service"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"path": "configs"
+		},
+		{
+			"path": "eureka-service"
+		},
+		{
+			"name": "controle-produtos",
+			"path": "controle-produtos"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "disabled"
+	}
+}
